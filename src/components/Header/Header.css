@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+nav li{
+    list-style: none;
+    display: flex;
+    padding: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+}
+nav ul{
+    display: flex;
+}
+nav{
+    background-color: rgb(2, 2, 65);
+    line-height: 20px;
+}
+nav ul li:hover{
+    background-color: hotpink;
+
+}

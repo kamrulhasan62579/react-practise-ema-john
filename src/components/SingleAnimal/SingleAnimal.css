@@ -1,0 +1,17 @@
+.single-animal{
+    border: 2px dotted blue;
+    text-align: center;
+}
+.btn{
+    height: 29px;
+    width: 150px;
+    background-color: goldenrod;
+    border: 1px solid grey;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.single-animal img{
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+}
